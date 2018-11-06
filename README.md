@@ -8,6 +8,7 @@ First, download [R](https://cran.r-project.org) and [RStudio](https://www.rstudi
 Here are a few guides to get started doing data analysis in R:
 * [Modern dive: Free E-book](https://moderndive.com)
 * [R for Data Science: Free E-book. I really recommend chapters 1-15](http://r4ds.had.co.nz)
+* [Getting Started in R 8-page PDF guide](https://github.com/saghirb/Getting-Started-in-R)
 * [Explore statistics with R: Course from Karolinska Institutet](https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0)
 * [Introduction to R on Datacamp](https://www.datacamp.com/courses/free-introduction-to-r)
 * [Data manipulation in R on Datacamp](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
