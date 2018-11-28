@@ -14,5 +14,6 @@ Here are a few guides to get started doing data analysis in R:
 * [Data manipulation in R on Datacamp](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
 * [RStudio cheatsheets for common actions](https://www.rstudio.com/resources/cheatsheets/)
 * [Overview of some resources](https://qz.com/1464525/whats-the-best-way-to-learn-the-programming-language-r-preferably-for-free/)
+* R for psychological science [youtube video](https://www.youtube.com/watch?v=xFkEbYk0C0Q), [free e-book](http://compcogscisydney.org/psyr/), [slides](https://slides.com/djnavarro/user2018#/)
 
 There are tons of online resources in the forms of blog posts and answers on forums. I collect some links I find helpful [here](https://www.notion.so/R-Stats-e85672c2481345e5bc2075fa38ac6ff8). Try pasting your error message into Google, almost always someone has had the same problem and there is a simple solution. Also try searching for your particular need, like "missing values in t-test in R".
